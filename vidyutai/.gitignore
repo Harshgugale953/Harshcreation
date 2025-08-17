@@ -1,0 +1,38 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# Generated files
+**/*.g.dart
+**/*.freezed.dart
+
+# iOS/Android
+ios/Pods/
+ios/.generated/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Misc
+.DS_Store
+.env
+.env.*
